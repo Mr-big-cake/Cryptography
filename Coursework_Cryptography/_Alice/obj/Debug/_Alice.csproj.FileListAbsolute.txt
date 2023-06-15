@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\bin\Debug\_Alice.exe.config
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\bin\Debug\_Alice.exe
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\bin\Debug\_Alice.pdb
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice_MarkupCompile.cache
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice_MarkupCompile.lref
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice.g.resources
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice.Properties.Resources.resources
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice.exe
+C:\Users\User\source\repos\Coursework Cryptography\_Alice\obj\Debug\_Alice.pdb
